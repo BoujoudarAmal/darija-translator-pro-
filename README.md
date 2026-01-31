@@ -59,4 +59,5 @@ Le modèle est configuré pour :
 - [ ] Historique des traductions locales.
 
 ---
-*Réalisé avec ❤️*
+## Developped by:
+*BOUJOUDAR Amal - Étudiante en master WISD*
