@@ -1,7 +1,0 @@
-// Ghir t-selectionni chi kttba, katsifat l Sidebar
-document.addEventListener('mouseup', () => {
-  const selectedText = window.getSelection().toString().trim();
-  if (selectedText) {
-    chrome.runtime.sendMessage({ type: "UPDATE_TEXT", text: selectedText });
-  }
-});
